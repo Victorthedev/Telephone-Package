@@ -49,7 +49,7 @@ class Observer {
 
 class DialingObserver {
     notify(number) {
-        console.log(`Dialing ${number}`);
+        console.log(`Now Dialing ${number}`);
     }
 }
 
